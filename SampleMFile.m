@@ -2,5 +2,5 @@
 
 A = [1 2; 3 4]
 fred = 'elaine'
-Hartur = {'Brazil','Olympics'}
+Marcela = {'Brazil','Olympics'}
 whos
